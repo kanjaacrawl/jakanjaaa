@@ -1,0 +1,153 @@
+*{
+    margin:0;
+}
+body{
+    width:100%;
+    height:2000px;
+    background-color:#4c5dbb;
+}
+.alas{
+    width:100%;
+    height:2000px;
+    background-color: aliceblue;
+}
+.header{
+    width:100%;
+    height:50px;
+    background-color:#4c5dbb;
+    display:flex;
+}
+.kiri{
+    width:50%;
+    height:50px;
+    background-color:#4c5dbb;
+}
+.kanan{
+    width:50%;
+    height:50px;
+    background-color:#4c5dbb;
+    display:flex;
+    justify-content:space-around;
+}
+.jdl{
+    width:50%;
+    height:50px;
+    background-color:#4c5dbb;
+}
+h2{
+    color:white;
+    padding-left:14%;
+    padding-top:3%;
+}
+.kanan-menu{
+    width:28%;
+    height:50px;
+    background-color:#4c5dbb;
+}
+.jdl-menu{
+    color:white;
+    text-align:center;
+    padding-top:9%;
+}
+.content{
+    width:100%;
+    height:500px;
+    background-color:#4c5dbb;
+    display:flex;
+}
+.isi-pict{
+    width:40%;
+    height:338px;
+    background-color:#43519b;
+    padding-top:12%;
+}
+.pict{
+    width:60%;
+    height:500px;
+    background-color:#43519b;
+}
+.isinya-pict{
+    text-align:center;
+    color:#c3e4fff7;
+}
+.footer{
+    width:100%;
+    height:100px;
+    background-color:orangered;
+    overflow:scroll;
+    justify-content:space-between;
+}
+.satu{
+    width:100%;
+    height:100px;
+    background-color:greenyellow;
+    display:flex;
+    
+}
+.pcct{
+    width:20%;
+    height:100px;
+    background-color:rosybrown;
+}
+.isi-pcct{
+    width:60%;
+    height:100px;
+    background-color:royalblue;
+}
+.tbl-pcct{
+    width:20%;
+    height:100px;
+    
+}
+.yeyy{
+    width:35%;
+    height:35px;
+    background-color:brown;
+    margin:auto;
+    margin-top:9%;
+    border-radius:15px;
+}
+.yayy{
+    text-align:center;
+    padding-top:9%;
+    color:white;
+}
+.satutu{
+    padding-top:3%;
+}
+.jdl-menu:hover{
+    color:blue;
+}
+.a{
+    width:100%;
+    height:591px;
+    background-color:cornflowerblue;
+    display:flex;
+}
+.pict-a{
+    width:40%;
+    height:591px;
+    background-color:indigo;
+}
+.isi-a{
+    width:60%;
+    height:591px;
+    background-color:orangered;
+}
+.b{
+    width:100%;
+    height:98px;
+    background-color:darkorange;
+}
+.c{
+    width:70%;
+    height:300px;
+    background-color:darkblue;
+    margin:auto;
+    margin-top:17%;
+    border-radius:15px;
+}
+.isi-c{
+    text-align: center;
+    padding-top:16%;
+}
